@@ -1,5 +1,5 @@
 git+https://github.com/cinemagoer/cinemagoer
-git+https://github.com/KurimuzonAkuma/pyrogram
+pyrogram
 pymongo[srv]==4.3.2
 motor==3.0.0
 marshmallow==3.18.0
